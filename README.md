@@ -16,6 +16,8 @@ https://github.com/sjones-njones/Logo-Generator.git
 
 https://watch.screencastify.com/v/4cA5o83PioHiVuTymq9L
 
+![Alt text](./assets/image.png)
+![Alt text](./assets/image-1.png)
 
 ### To run this app:
 * open terminal
