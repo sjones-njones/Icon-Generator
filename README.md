@@ -16,6 +16,8 @@ https://github.com/sjones-njones/Logo-Generator.git
 
 https://watch.screencastify.com/v/4cA5o83PioHiVuTymq9L
 
+*The code for this app can be found in the index.js, shapes.js, questions.js, and shapes.test.js files.
+
 ![Alt text](./assets/image.png)
 ![Alt text](./assets/image-1.png)
 
