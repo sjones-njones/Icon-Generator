@@ -2,8 +2,8 @@
 width="300" height="200"
 xmlns="http://www.w3.org/2000/svg">
 
-<circle cx="250" cy="205" r="80" stroke="dark pink" fill="dark pink" stroke-width="5"/>
+<polygon points="145, 10 239, 162 71, 162" fill="red" />
 
-<text x="150" y="125" font-size="60" text-anchor="middle" fill="pink">SHJ</text>
+<text x="150" y="125" font-size="60" text-anchor="middle" fill="blue">SHJ</text>
 
 </svg>
